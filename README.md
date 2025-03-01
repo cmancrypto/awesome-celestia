@@ -1235,7 +1235,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 #### Public Endpoints - Mainnet 
 - celestia-grpc.kleomedes.network:443
-
+---
 
 
 
