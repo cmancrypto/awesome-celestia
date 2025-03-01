@@ -1226,7 +1226,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
-###Contributions by [Kleomedes](https://kleomed.es/)
+### Contributions by [Kleomedes](https://kleomed.es/)
 
 #### [Stake-Hub](https://stake-hub.xyz/) 
 - User Centric Validator Agnostic Staking Platform featuring Celestia 
